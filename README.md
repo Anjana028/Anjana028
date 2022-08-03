@@ -1,4 +1,4 @@
-Hi 👋 My name is Anjana Banerjee ==============================  Under graduate Student ----------------------  I've been learning to code for 4 years, I'm experienced at JAVA, C, C++ and HTML. Apart from that, I've started learning CSS and JS  * 🌍  I'm based in India * ✉️  You can contact me at [your mail](mailto:your mail) * 🧠  I'm learning App Development and APIs * 🤝  I'm open to collaborating on Internships * ⚡  I'm secretly good at content writing... but don't tell anyone
+Hi 👋 My name is Anjana Banerjee ==============================  Under graduate Student ----------------------  I've been learning to code for 4 years, I'm experienced at JAVA, C, C++ and HTML. Apart from that, I've started learning CSS and JS  * 🌍  I'm based in India * ✉️  You can contact me at [banerjee.anjana124@gmail.com](mailto:banerjee.anjana124@gmail.com) * 🧠  I'm learning App Development and APIs * 🤝  I'm open to collaborating on Internships * ⚡  I'm secretly good at content writing... but don't tell anyone
 
 ### Skills
 
